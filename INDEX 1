@@ -7,5 +7,13 @@
         <title>Documet</title>
         <linkrel=Styleheet" hrh="stylecss"
 </head>
-<body></body>
+<body>
+<header>
+            <h1> vai ser uma imagem aqui </h1>
+        <ul>
+             <li>escola</li>
+             <li>estudante</li>
+      </ul>
+    </header>
+</body>
 </html>
